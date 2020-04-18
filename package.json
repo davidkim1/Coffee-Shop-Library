@@ -2,7 +2,7 @@
   "name": "coffee-shop-library",
   "version": "0.1.0",
   "engines": {
-    "npm": "6.x"
+    "node": "12.16.x"
   },
   "private": true,
   "dependencies": {
